@@ -35,7 +35,6 @@ To run this project, you'll need the following software and libraries installed:
 - NumPy
 - OpenCV
 - Scikit-learn
-- Matplotlib
 
 You can install the required libraries using:
 
