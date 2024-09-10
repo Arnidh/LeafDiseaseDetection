@@ -36,36 +36,6 @@ To run this project, you'll need the following software and libraries installed:
 - OpenCV
 - Scikit-learn
 
-## Model Training
-
-To train the model on the dataset, run the following command:
-
-```bash
-python train.py
-```
-
-This will start the training process and save the trained model to the `models/` directory.
-
-## Prediction
-
-To predict disease from an image of a leaf, run the following command:
-
-```bash
-python predict.py --image /path/to/leaf/image.jpg
-```
-
-This will output the predicted disease class for the given image.
-
-## Evaluation
-
-To evaluate the model's performance on a test dataset, run:
-
-```bash
-python evaluate.py
-```
-
-This will provide metrics such as accuracy, precision, recall, and F1-score.
-
 
 ## License
 
