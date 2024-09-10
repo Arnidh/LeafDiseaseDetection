@@ -36,34 +36,6 @@ To run this project, you'll need the following software and libraries installed:
 - OpenCV
 - Scikit-learn
 
-You can install the required libraries using:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/username/leaf-disease-detection.git
-cd leaf-disease-detection
-```
-
-2. Install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Download the dataset and place it in the `data/` directory:
-
-```bash
-mkdir data
-# Place dataset in the data folder
-```
-
 ## Model Training
 
 To train the model on the dataset, run the following command:
